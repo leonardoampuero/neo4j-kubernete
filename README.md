@@ -1,1 +1,1 @@
-# neo4j-kubernete
+# Neo4j causal cluster + Kubernete
